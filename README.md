@@ -55,6 +55,14 @@ Click [here](https://github.com/abs-hub/project0-abs-hub/blob/master/REQUIREMENT
          <td><code>images</code></td>
          <td>This is a folder and contains images used in the website. Few images are my personal images and few are taken from <a href="https://unsplash.com">https://unsplash.com</a>.</td>
       </tr>
+      <tr>
+         <td><code>README.MD</code></td>
+         <td>This file contains html table to describe the component list which we are reading. The source code is combination of Markdown and HTML.</td>
+      </tr>
+      <tr>
+         <td><code>REQUIREMENTS.MD</code></td>
+         <td>This file content is taken from the requirements provided by Professor and is translated to Markdown language. </td>
+      </tr>
    </tbody>
 </table>
 
